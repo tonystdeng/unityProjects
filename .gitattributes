@@ -185,3 +185,4 @@ nightMaze/Library/PackageCache/com.unity.burst@616862665d8c/.Runtime/libburst-ll
 .git/lfs/objects/b5/46/b546632d1b57495a948aa575e81724f7e8c2ee3f07a80ac82c9c9babe12b1b18 filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/83/db/83db985d4c493575b1393eabd9de6245bc9fcdcc20cb708e65df761cb32cb3a8 filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/7f/9f/7f9fb42402de443a49be64dc59206751c89751183c78d0cb82b1e3fb08bf9b40 filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
