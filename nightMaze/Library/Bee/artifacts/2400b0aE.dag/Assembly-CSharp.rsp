@@ -437,7 +437,10 @@
 -analyzer:"/home/tony/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/home/tony/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/home/tony/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/main.cs"
+"Assets/mazeScript.cs"
 "Assets/playerScript.cs"
+"Assets/roomScript.cs"
 -langversion:9.0
 /deterministic
 /optimize+
