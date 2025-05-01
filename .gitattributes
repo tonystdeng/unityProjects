@@ -193,3 +193,4 @@ flappyBird/Library/PackageCache/com.unity.burst@616862665d8c/.Runtime/burst-llvm
 flappyBird/Library/PackageCache/com.unity.burst@616862665d8c/.Runtime/burst-llvm-16.dll filter=lfs diff=lfs merge=lfs -text
 flappyBird/Library/PackageCache/com.unity.burst@616862665d8c/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
 flappyBird/Library/PackageCache/com.unity.burst@616862665d8c/.Runtime/libburst-llvm-16.so filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-9e037477bcaae286f3dff4b7e6ff8c82838a04f0.pack filter=lfs diff=lfs merge=lfs -text
